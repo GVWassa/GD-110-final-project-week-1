@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../GD205/Sound-novel/Visual novel/Assets/NEW CONCEPT/OfficeEntrance/Mydialogue.cs">
+    <Files>
+      <File FileName="Assets/MovePawn.cs" Line="21" Column="105" />
+      <File FileName="../../GD205/Sound-novel/Visual novel/Assets/NEW CONCEPT/OfficeEntrance/Mydialogue.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
